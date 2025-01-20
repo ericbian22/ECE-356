@@ -1,0 +1,35 @@
+Successfully connected to the database
+Number of entries retrieved: 1780653
+Retrieving data took 0.0 minute(s) and 37.56700801849365 second(s)
+
+Average accuracy from cross validation:
+0.7663535802653737
+
+Cross validation scores of each model: 
+0.7717392499664594
+0.7593831170973425
+0.7713477598185949
+0.7755771730452435
+0.7714885203211979
+0.7748178906992294
+0.7599258366470775
+0.7610079353907873
+0.7603833092866946
+0.7578650103811099
+
+Attribute importances:
+                attribute  importance
+       Age_Band_of_Driver    0.150447
+           Age_of_Vehicle    0.120298
+        Vehicle_Manoeuvre    0.108807
+              Speed_limit    0.105807
+Journey_Purpose_of_Driver    0.092617
+                     Time    0.084020
+             Vehicle_Type    0.075497
+         Junction_Control    0.061676
+       Weather_Conditions    0.058167
+  Road_Surface_Conditions    0.053141
+                Road_Type    0.052833
+         Light_Conditions    0.036691
+
+Training, testing, and validation took 5.0 minute(s) and 58.0719211101532 second(s)
